@@ -1,0 +1,35 @@
+{
+  "name": "csci3916_hw4",
+  "version": "1.0.0",
+  "description": "Analytics for movie app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turboturtle8/csci3916_hw4.git"
+  },
+  "author": "Loretta Griego (Shawn McCarthy API code)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turboturtle8/csci3916_hw4/issues"
+  },
+  "homepage": "https://github.com/turboturtle8/csci3916_hw4#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "exports": "0.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.3"
+  }
+}
